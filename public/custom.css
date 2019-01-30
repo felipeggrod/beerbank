@@ -1,0 +1,27 @@
+.shadow-box {
+    transition: box-shadow .16s;
+    box-shadow: 0 0 20px rgba(33,33,33,.13);
+    border: 0px;
+}
+.shadow-box:hover {
+    box-shadow: 0 0 30px rgba(33, 33, 33, 0.5); 
+}
+
+.orange {
+    color: orange;
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.clickable {
+    cursor:pointer;
+    outline:none;
+}
+
+.modal-dialog {
+    max-width: 600px;
+}
