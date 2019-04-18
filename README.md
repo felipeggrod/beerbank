@@ -1,1 +1,1 @@
-Beer Bank UI based on specifications
+Beer Bank UI
